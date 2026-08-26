@@ -1,4 +1,4 @@
-# RamazonRo-ziyev-README.md
+# RamazonRoziyev-README.md
 ​👋 Hi, I'm Ramazon
 ​Frontend Developer
 HTML5 | CSS3 | JavaScript | Git
