@@ -1,7 +1,4 @@
 # RamazonRoziyev-README.md
-​👋 Hi, I'm Ramazon
-
-​Frontend Developer
-HTML5 | CSS3 | JavaScript | Git
-I am currently learning and trying to learn new technologies and practice every day.
-My main goal is to create modern, reliable, and convenient websites and applications that benefit people using quality code. I like collaborating on innovative projects. I am open to contributing to open-source projects and interesting opportunities.
+​​👋 Hi, I'm Ramazon
+​Frontend Developer | HTML5 | CSS3 | JavaScript | Git
+​I'm continuously learning new technologies and practicing every day. My main goal is to build modern, reliable, and user-friendly websites and applications that benefit people through clean, high-quality code. I love collaborating on innovative projects and am always open to contributing to open-source or exploring new opportunities.
